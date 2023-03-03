@@ -5,3 +5,4 @@ print("owned") else
 	print("not owned")
 	script.Parent:Destroy()
 	end
+	---Made by thatepicdevx---
